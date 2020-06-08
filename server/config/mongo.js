@@ -1,0 +1,1 @@
+url = 'mongodb+srv://testUser:test1234@irctc-clone-cluster-zvxkt.mongodb.net/irctc-clone?retryWrites=true&w=majority'
